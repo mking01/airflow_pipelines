@@ -1,4 +1,4 @@
-# Airflow Pipelines
+# Pipelines with Airflow
 
 Constructing Airflow pipelines to retrieve AWS data, load tables, and check data quality. Completed as part of Udacity's Data Engineering Nanodegree.
 
