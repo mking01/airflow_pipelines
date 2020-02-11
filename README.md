@@ -2,9 +2,9 @@
 
 Constructing Airflow pipelines to retrieve AWS data, load tables, and check data quality. Completed as part of Udacity's Data Engineering Nanodegree.
 
-The "Dags" folder contains the directed acyclical graphs and tasks used within the graphs.
+The "Dags" folder within "airflow" contains the directed acyclical graphs and tasks used within the graphs.
 
-The "plugins" folder contains operators used within the dags and SQL helper functions.
+The "plugins" folder within "airflow" contains operators used within the dags and SQL helper functions.
 
 "Create_tables.sql" contains the SQL script used for loading data into tables.  As the focus of this project was Airflow, this code was provided by Udacity to maintain the project emphasis.
 
